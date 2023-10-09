@@ -1,2 +1,2 @@
-def addition(a,b,c,d):
-    return a+b+c+d
+def addition(p,q):
+    return p+q
